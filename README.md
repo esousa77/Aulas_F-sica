@@ -2,10 +2,9 @@
 Repositório para as aulas de física. Eletricidade e Óptica.
 ## Orientações para o trabalho de Óptica. 
 ####OBJETIVOS.
-Propiciar, através da pesquisa de artigos, a ligação entre a teoria estudada em sala e os avanços tecnológicos ligados direta ou indiretamente a essas tecnologias. 
+Propiciar, através da pesquisa de artigos e in loco, a ligação entre a teoria estudada em sala e os avanços tecnológicos ligados a teoria.
 ####METODOLOGIA.
-O trabalho será composto de três fases.: realização da pesquisa, escrita do relatório de pesquisa. Apresentação da pesquisa e entrega do registro em dvd.
-
+O trabalho será composto de três fases.: realização da pesquisa, escrita do relatório de pesquisa, apresentação da pesquisa e entrega do registro em dvd.A descrição detalhada de cada fase do trabalho é dada a seguir.
 ####1. RELATÓRIO DE PESQUISA.
 
 ####2. APRESENTAÇÃO DA PESQUISA. 
