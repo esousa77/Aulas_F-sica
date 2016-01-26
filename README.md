@@ -7,7 +7,7 @@ Repositório para as aulas de física.
 Propiciar, através da orientação para a pesquisa de artigos e in loco, a ligação entre a teoria estudada em sala e os avanços tecnológicos atuais.
 
 #### METODOLOGIA DO TRABALHO DE PESQUISA.
-O trabalho será composto de três fases.: realização da pesquisa, escrita do relatório de pesquisa, apresentação da pesquisa e entrega do registro das apresentações e relatórios em dvd. A descrição detalhada de cada fase do trabalho será detalhada a seguir. Os temas serão sorteados a partir de temas previamente escolhidos pelo professor da disciplina. 
+O trabalho será composto de três fases.: realização da pesquisa, escrita do relatório de pesquisa, apresentação da pesquisa e entrega do registro das apresentações e relatórios em dvd. Os temas serão sorteados a partir de temas previamente sugeridos e entregues a grupos de 4~5 alunos. 
 
 #### 1. RELATÓRIO DE PESQUISA.
 O relatório de pesquisa deve conter: tema, objetivos, metodologia e conclusão. Todos os relatórios devem ser escritos conforme a [ABNT](http://www.abnt.org.br/), respeitando a devida formatação, ortografia e citação de trabalhos de terceiros. Esta atividade representará `1/2 do valor total` da nota. `Plágios serão tratados caso a caso`.
@@ -31,4 +31,4 @@ As apresentações serão agendadas em sala em momento oportuno. Cada grupo ter�
     j. Radiação (Astrofísica/ Medicina/ construção Civil).
     
 #### Referências.
-1. 
+Professor [Edvan Sousa](https://about.me/edvansousa).
