@@ -56,13 +56,14 @@ O relatório de pesquisa deve conter: tema, objetivos, metodologia e conclusão.
     2.m. Eletricidade sem fios (Engenharia/ Física/ Tecnologia).
     
 #### 3. REFERÊNCIAS.
+
 3.1.  Página pessoal do professor [Edvan Sousa](https://about.me/edvansousa).
 
 3.2.  [WALKER](http://www.amazon.com.br/Fundamentos-F%C3%ADsica-%C3%93ptica-F%C3%ADsica-Moderna/dp/8521619065/ref=pd_bxgy_14_3?ie=UTF8&refRID=1NAQ1PEC1H95NF13MAD8), Jearl; HALLIDAY, David; RESNICK, Robert. Fundamentos de física: volume 4: mecânica. LTC, 2009.
 
 #### 4. SUGESTÕES DE LEITURA.
 
-4.1.  Repositório de Universidades Portuguesas [RCAAP](http://projeto.rcaap.pt/index.php/lang-pt/como-pesquisar-documentos/introducao-4).
+4.1. Repositório de Universidades Portuguesas [RCAAP](http://projeto.rcaap.pt/index.php/lang-pt/como-pesquisar-documentos/introducao-4).
 
 4.2. Periódicos [CAPES](http://www-periodicos-capes-gov-br.ez20.periodicos.capes.gov.br/index.php?option=com_phome).
 
@@ -78,6 +79,6 @@ O relatório de pesquisa deve conter: tema, objetivos, metodologia e conclusão.
 
 4.8. Repositório Universidade do Rio de Janeiro [UFRj](http://www.sibi.ufrj.br/).
 
-4.9 Repositório [ITA](http://sistema.bibliotecas-bdigital.fgv.br/bases/instituto-tecnologico-da-aeronautica-ita-biblioteca-digital).
+4.9  Repositório [ITA](http://sistema.bibliotecas-bdigital.fgv.br/bases/instituto-tecnologico-da-aeronautica-ita-biblioteca-digital).
 
 4.10. Repositório da Universidade Federal de Santa Catarina [UFSC](https://repositorio.ufsc.br/handle/123456789/74645).
