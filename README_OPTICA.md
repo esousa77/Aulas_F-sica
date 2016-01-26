@@ -30,17 +30,29 @@ O relatório de pesquisa deve conter: tema, objetivos, metodologia e conclusão.
 #### 2. TEMAS.
 
     2.a. Fibra óptica (Comunicações/ Engenharia).
+    
     2.b. Espelhos e lentes (Medicina/ Astronomia/ Engenharia/etc.).
+    
     2.c. Espectroscopia (Química/ Engenharia/ Física).
+    
     2.d. Telescópios (Astronomia/ Astrofísica/ Militar/ etc.).
+    
     2.e. Lasers (Medicina/ Engenharia/ Comunicações/ etc.).
+    
     2.f. Computação (Arquitetura de computadores/ etc.).
+    
     2.g. Moda (Estética/ Cosméticos).
+    
     2.h. Tintas e pigmentos (Construção civil/ Arquitetura).
+    
     2.i. Iluminação de ambientes (construção civil/ Arquitetura/ Tecnologias ).
+    
     2.j. Radiação (Astrofísica/ Medicina/ construção Civil).
+    
     2.k. Li-Fi - Internet através da luz (Comunicações/ Engenharia/ Física).
+    
     2.l. Energia solar (Engenharia/ Física/ Química).
+    
     2.m. Eletricidade sem fios (Engenharia/ Física/ Tecnologia).
     
 #### 3. REFERÊNCIAS.
@@ -50,7 +62,7 @@ O relatório de pesquisa deve conter: tema, objetivos, metodologia e conclusão.
 
 #### 4. SUGESTÕES DE LEITURA.
 
-4.1.  Repositório [RCAAP](http://projeto.rcaap.pt/index.php/lang-pt/como-pesquisar-documentos/introducao-4).
+4.1.  Repositório de Universidades Portuguesas [RCAAP](http://projeto.rcaap.pt/index.php/lang-pt/como-pesquisar-documentos/introducao-4).
 
 4.2. Periódicos [CAPES](http://www-periodicos-capes-gov-br.ez20.periodicos.capes.gov.br/index.php?option=com_phome).
 
@@ -58,9 +70,14 @@ O relatório de pesquisa deve conter: tema, objetivos, metodologia e conclusão.
 
 4.4. Repositório Universidade de [UMINHO](https://repositorium.sdum.uminho.pt).
 
-4.5. Repositório Universidade de [São Paulo](http://www.teses.usp.br/).
+4.5. Repositório Universidade de São Paulo [USP](http://www.teses.usp.br/).
 
-4.6. Repositório Universidade de [Minas Gerais](https://dspaceprod02.grude.ufmg.br/dspace/).
+4.6. Repositório Universidade de Minas Gerais [UFMG](https://dspaceprod02.grude.ufmg.br/dspace/).
 
-4.7. Repositório Universidade de [Campinas](http://www.bibliotecadigital.unicamp.br/).
-4.8. 
+4.7. Repositório Universidade de Campinas[UNICAMP](http://www.bibliotecadigital.unicamp.br/).
+
+4.8. Repositório Universidade do Rio de Janeiro [UFRj](http://www.sibi.ufrj.br/).
+
+4.9 Repositório [ITA](http://sistema.bibliotecas-bdigital.fgv.br/bases/instituto-tecnologico-da-aeronautica-ita-biblioteca-digital).
+
+4.10. Repositório da Universidade Federal de Santa Catarina [UFSC](https://repositorio.ufsc.br/handle/123456789/74645).
