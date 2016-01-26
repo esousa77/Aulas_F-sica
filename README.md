@@ -1,5 +1,5 @@
 # Aulas_Física.
-Repositório para as aulas de física. 
+Repositório para as aulas de física IV. 
 ### Disciplina Física IV -Óptica, semestre 2016/1.
 #### Orientações para o trabalho de Óptica. 
  
@@ -32,3 +32,4 @@ As apresentações serão agendadas em sala em momento oportuno. Cada grupo ter�
     
 #### Referências.
 Professor [Edvan Sousa](https://about.me/edvansousa).
+ [WALKER](http://www.amazon.com.br/Fundamentos-F%C3%ADsica-%C3%93ptica-F%C3%ADsica-Moderna/dp/8521619065/ref=pd_bxgy_14_3?ie=UTF8&refRID=1NAQ1PEC1H95NF13MAD8), Jearl; HALLIDAY, David; RESNICK, Robert. Fundamentos de física: volume 4: mecânica. LTC, 2009
