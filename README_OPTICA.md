@@ -39,7 +39,7 @@ O relatório de pesquisa deve conter: tema, objetivos, metodologia e conclusão.
     2.h. Tintas e pigmentos (Construção civil/ Arquitetura).
     2.i. Iluminação de ambientes (construção civil/ Arquitetura/ Tecnologias ).
     2.j. Radiação (Astrofísica/ Medicina/ construção Civil).
-    2.k  Li-Fi - Internet através da luz (Tecnologia/ Engenharia/ Física)
+    2.k. Li-Fi - Internet através da luz (Tecnologia/ Engenharia/ Física)
     
 #### 3. REFERÊNCIAS.
 
