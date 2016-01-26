@@ -75,10 +75,28 @@ O relatório de pesquisa deve conter: tema, objetivos, metodologia e conclusão.
 
 4.6. Repositório Universidade de Minas Gerais [UFMG](https://dspaceprod02.grude.ufmg.br/dspace/).
 
-4.7. Repositório Universidade de Campinas[UNICAMP](http://www.bibliotecadigital.unicamp.br/).
+4.7. Repositório Universidade de Campinas [UNICAMP](http://www.bibliotecadigital.unicamp.br/).
 
 4.8. Repositório Universidade do Rio de Janeiro [UFRj](http://www.sibi.ufrj.br/).
 
 4.9  Repositório [ITA](http://sistema.bibliotecas-bdigital.fgv.br/bases/instituto-tecnologico-da-aeronautica-ita-biblioteca-digital).
 
 4.10. Repositório da Universidade Federal de Santa Catarina [UFSC](https://repositorio.ufsc.br/handle/123456789/74645).
+
+####
+#### 5. COMO REALIZAR UMA PESQUISA TEMÁTICA.
+
+    Passos sugeridos:
+    
+    5.0. Depois de escolhido o tema, passa-se a fase de aquisição de informações.
+    
+    5.1. Toda pesquisa se inicia com a leitura de artigos, livros, revistas e demais documentos (podem ser documentos da WEB, desde que sejam de fontes e autores conhecidos e considerados válidos cientificamente, provenientes de revistas cientificas). 
+    
+    5.2. A leitura dos documentos deve ser criteriosa. Os artigos e livros devem ser fichados durante a leitura, grifando-se citações e informações que podem ser importantes para a escrita posterior do texto final.
+    
+    5.3. Adquirida, lida e fichada, as referências estão `prontas` para serem utilizadas na escrita do texto.
+    
+    5.4. Todo o cuidado é pouco ao se utilizar das ideia, citações ou descobertas de outros. O `plágio` é um crime grave.
+    
+    5.5. A escrita do documento deve ser feita por etapas. Uma boa descrição dessas etapas é feita por Umberto Echo, em seu livro Como se faz uma tese.
+
