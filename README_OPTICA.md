@@ -50,4 +50,5 @@ O relatório de pesquisa deve conter: tema, objetivos, metodologia e conclusão.
 
 #### 4. SUGESTÕES DE LEITURA.
 4.1. Repositório [RCAAP](http://projeto.rcaap.pt/index.php/lang-pt/como-pesquisar-documentos/introducao-4).
-4.2. 
+4.2. Periódicos [CAPES](http://www-periodicos-capes-gov-br.ez20.periodicos.capes.gov.br/index.php?option=com_phome).
+4.2. Artigos [MIT]().
