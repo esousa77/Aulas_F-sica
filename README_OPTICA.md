@@ -23,7 +23,7 @@ O relatório de pesquisa deve conter: tema, objetivos, metodologia e conclusão.
     c. Será pontuada a criatividade: uso de materiais, amostras, objetos como maquetes ou modelos, o domínio do conteúdo, a organização da apresentação oral e a desenvoltura pessoal e do grupo na apresentação do trabalho. 
     d. Esta atividade representará 1/2 do valor total da nota.
 
-#### 1.5 REGISTRO EM DVD DO RELATÓRIO DE PESQUISA E APRESENTAÇÃO. 
+#### 1.5 REGISTRO DO RELATÓRIO DE PESQUISA E APRESENTAÇÃO. 
 
 É a última atividade a ser realizada. É uma parte eliminatória dentre as atividades propostas. Ressaltamos que a entrega do DVD é obrigatória e será realizada uma aula após as apresentações do último grupo. Todos os grupos serão responsáveis em registrar suas apresentações em vídeo e disponibilizá-las e divulgá-las em canal do[YOUTUBE](https://www.youtube.com/) registrado para a turma .
 
