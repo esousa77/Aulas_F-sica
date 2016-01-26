@@ -45,5 +45,9 @@ O relatório de pesquisa deve conter: tema, objetivos, metodologia e conclusão.
     
 #### 3. REFERÊNCIAS.
 
-1. Página pessoal do professor [Edvan Sousa](https://about.me/edvansousa).
-2. [WALKER](http://www.amazon.com.br/Fundamentos-F%C3%ADsica-%C3%93ptica-F%C3%ADsica-Moderna/dp/8521619065/ref=pd_bxgy_14_3?ie=UTF8&refRID=1NAQ1PEC1H95NF13MAD8), Jearl; HALLIDAY, David; RESNICK, Robert. Fundamentos de física: volume 4: mecânica. LTC, 2009.
+3.1. Página pessoal do professor [Edvan Sousa](https://about.me/edvansousa).
+3.2. [WALKER](http://www.amazon.com.br/Fundamentos-F%C3%ADsica-%C3%93ptica-F%C3%ADsica-Moderna/dp/8521619065/ref=pd_bxgy_14_3?ie=UTF8&refRID=1NAQ1PEC1H95NF13MAD8), Jearl; HALLIDAY, David; RESNICK, Robert. Fundamentos de física: volume 4: mecânica. LTC, 2009.
+
+#### 4. SUGESTÕES DE LEITURA.
+4.1. Repositório [RCAAP](http://projeto.rcaap.pt/index.php/lang-pt/como-pesquisar-documentos/introducao-4).
+4.2. 
