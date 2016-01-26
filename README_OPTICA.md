@@ -13,15 +13,20 @@ O trabalho será composto de três fases.: realização da pesquisa, escrita do 
 
 #### 1.3 RELATÓRIO DE PESQUISA.
 
-O relatório de pesquisa deve conter: tema, objetivos, metodologia e conclusão. Todos os relatórios devem ser escritos conforme a [ABNT](http://www.abnt.org.br/), respeitando a devida formatação, ortografia e citação de trabalhos de terceiros. Esta atividade representará `1/2 do valor total` da nota. `Plágios` serão tratados caso a caso.
+O relatório de pesquisa deve conter: temática, objetivos, metodologia e a conclusão. Todos os relatórios devem ser escritos conforme a [ABNT](http://www.abnt.org.br/), respeitando a devida formatação, ortografia e citação de trabalhos de terceiros. Esta atividade representará `1/2 do valor total` da nota. `Plágios` serão tratados caso a caso.
 
 #### 1.4 APRESENTAÇÃO DA PESQUISA.
 ##### 1.4.1 Orientações:
 
     a. As apresentações serão agendadas em sala em momento oportuno. 
+    
     b. Cada grupo terá 20 min para apresentar a pesquisa realizada. 
-    c. Será pontuada: a criatividade na apresentação do tema. O uso de materiais, amostras e objetos como maquetes ou modelos. O domínio do conteúdo. A organização da apresentação oral e a desenvoltura pessoal e do grupo na apresentação do trabalho. O Uso de slides devidamente formatados.
-    d. Esta atividade representará metade do valor total da nota.
+    
+    c. Será pontuada: a criatividade na apresentação do tema. O uso de materiais, amostras e objetos como maquetes ou modelos. O domínio do conteúdo. A organização da apresentação oral e a desenvoltura pessoal e do grupo na apresentação do trabalho. 
+    
+    d. As apresentações devem ser realizadas com slides devidamente formatados.
+    
+    e. Esta atividade representará metade do valor total da nota.
 
 #### 1.5 REGISTRO DO RELATÓRIO DE PESQUISA E APRESENTAÇÃO. 
 
