@@ -41,7 +41,7 @@ O relatório de pesquisa deve conter: tema, objetivos, metodologia e conclusão.
     2.j. Radiação (Astrofísica/ Medicina/ construção Civil).
     2.k. Li-Fi - Internet através da luz (Comunicações/ Engenharia/ Física).
     2.l. Energia solar (Engenharia/ Física/ Química).
-    2.m. 
+    2.m. Carregadores sem fios (Engenharia/ Física/ Tecnologia).
     
 #### 3. REFERÊNCIAS.
 
