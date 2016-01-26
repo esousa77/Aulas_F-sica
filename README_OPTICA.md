@@ -49,6 +49,12 @@ O relatório de pesquisa deve conter: tema, objetivos, metodologia e conclusão.
 3.2. [WALKER](http://www.amazon.com.br/Fundamentos-F%C3%ADsica-%C3%93ptica-F%C3%ADsica-Moderna/dp/8521619065/ref=pd_bxgy_14_3?ie=UTF8&refRID=1NAQ1PEC1H95NF13MAD8), Jearl; HALLIDAY, David; RESNICK, Robert. Fundamentos de física: volume 4: mecânica. LTC, 2009.
 
 #### 4. SUGESTÕES DE LEITURA.
+
 4.1. Repositório [RCAAP](http://projeto.rcaap.pt/index.php/lang-pt/como-pesquisar-documentos/introducao-4).
 4.2. Periódicos [CAPES](http://www-periodicos-capes-gov-br.ez20.periodicos.capes.gov.br/index.php?option=com_phome).
-4.2. Artigos [MIT]().
+4.3. Artigos [MIT](http://web.mit.edu/comm-forum/papers.html).
+4.4. Repositório Universidade de [UMINHO](https://repositorium.sdum.uminho.pt).
+4.5. Repositório Universidade de [São Paulo](http://www.teses.usp.br/).
+4.6. Repositório Universidade de [Minas Gerais](https://dspaceprod02.grude.ufmg.br/dspace/).
+4.7. Repositório Universidade de [Campinas](http://www.bibliotecadigital.unicamp.br/).
+4.8. 
