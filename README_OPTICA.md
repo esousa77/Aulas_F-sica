@@ -95,7 +95,7 @@ O relatório de pesquisa deve conter: temática, objetivos, metodologia e a conc
     
     5.0. Depois de escolhido o tema, passa-se a fase de aquisição de informações.
     
-    5.1. Toda pesquisa se inicia com a leitura de artigos, livros, revistas e demais documentos (podem ser documentos da WEB, desde que sejam de fontes e autores conhecidos e considerados válidos cientificamente, provenientes de revistas cientificas). 
+    5.1. Toda pesquisa se inicia com a leitura de artigos, livros, revistas e demais documentos (podem ser documentos da WEB, desde que sejam de fontes e autores conhecidos e considerados válidos cientificamente). 
     
     5.2. A leitura dos documentos deve ser criteriosa. Os artigos e livros devem ser fichados durante a leitura, grifando-se citações e informações que podem ser importantes para a escrita posterior do texto final.
     
