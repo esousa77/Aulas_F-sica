@@ -1,7 +1,15 @@
 # Curso de física IV_optica_2016.
-Página contendo as notas de de aula do curso de optica, semestre 2016-1.
+
+Página contendo esquema de aula para o curso de optica, semestre 2016-1.
 
 ##SEMANA 01 a 03.
+
+#### Momento tostines.
+
+    1. O que mudaria na ciência, tecnologia e em nosso dia-a-dia se a velocidade da luz fosse infinita? Explique.
+    2. Proponha um experimento caseiro para medir a velocidade da luz.
+    3. E se você tentasse rebater uma bola de futebol arremessada a 90% da velocidade da luz? O que aconteceria? 
+        3.a. Adaptado do livro E se? - Respostas científicas para perguntas absurdas, Randall Munroe.  
 
 #### Atividades da semana 01-03.
 
@@ -47,7 +55,7 @@ Página contendo as notas de de aula do curso de optica, semestre 2016-1.
 
 ## SEMANA 11 a 13.
 
-#### Atividades da semana 08-10.
+#### Atividades da semana 11-13.
 
     1. Discussão em sala do tema _Difração_, referente ao capítulo 42 do livro texto (HALLIDAY et al., 2005);
     2. Resolução de exercícios do capítulo.
@@ -65,4 +73,5 @@ Página contendo as notas de de aula do curso de optica, semestre 2016-1.
   2. Documentário da BBC: [A história da energia](https://www.youtube.com/watch?v=D8BOEXtiyzI).
   3. Página de vídeos e aulas da [Unicamp](www.univesp.tv.br).
   4. Página de vídeos e cursos do [MIT](https://www.youtube.com/user/MIT/videos).
-  5. 
+  5. Aulas de matemática com professores do [Instituto de Matemática Pura e Apliacada](https://www.youtube.com/channel/UCaFX7y4LgF1GtQlxWC__72g/search?query=trigonometria).
+  6. 
