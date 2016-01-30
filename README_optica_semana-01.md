@@ -22,10 +22,16 @@ Notas de de aula do curso de Óptica semestre 2016-1.
 ### Tarefas.
     1. Ler o capítulo 41 (Interferência) do livro texto (HALLIDAY et al., 2005).
     2. Responder aos exercícios:
-      a. 41-1 (1); 41-2 (2,3); 41-3 (4-7); 41-4 (8,9); 41-5 (10-14); 41-6 (15).
-      b. São optativos os exercícios e problemas propostos do resto do capítulo 40 entre as páginas 53 a 62.
+      a. 41-2 (1-9); 41-3 (10-12); 41-4 (11,12); 41-5 (13-15).
+      b. São optativos os exercícios e problemas propostos do resto do capítulo 41 entre as páginas 80 a 86.
 
+## SEMANA 11 a 13.
 
+### Tarefas.
+    1. Ler o capítulo 42 (Difração) do livro texto (HALLIDAY et al., 2005).
+    2. Responder aos exercícios:
+      a. 42-1 (1); 42-2 (2-5); 42-3 (6-9); 42-4 (10,11); 42-5 (12).
+      b. São optativos os exercícios e problemas propostos do resto do capítulo 42 entre as páginas 101 a 105.
 
 #### Sugestões de leitura.
   1. Documentário da BBC: [A história da eletricidade](https://www.youtube.com/watch?v=8NN880JDP8M).
