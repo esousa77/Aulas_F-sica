@@ -89,7 +89,7 @@ O relatório de pesquisa deve conter: temática, objetivos, metodologia e a conc
 4.10. Repositório da Universidade Federal de Santa Catarina [UFSC](https://repositorio.ufsc.br/handle/123456789/74645).
 
 ####
-#### 5. COMO REALIZAR UMA PESQUISA TEMÁTICA.
+#### 5. COMO REALIZAR UMA PESQUISA TEMÁTICA..
 
     Passos sugeridos:
     
