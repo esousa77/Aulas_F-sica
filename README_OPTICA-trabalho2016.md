@@ -36,7 +36,7 @@ O relatório de pesquisa deve conter: temática, objetivos, metodologia e a conc
 
     2.a. Fibra óptica (Comunicações/ Engenharia).
     
-    2.b. Espelhos e lentes (Medicina/ Astronomia/ Engenharia/etc.).
+    2.b. Espelhos e lentes (Medicina/ Astronomia/ Engenharia/ etc.).
     
     2.c. Espectroscopia (Química/ Engenharia/ Física).
     
@@ -46,7 +46,7 @@ O relatório de pesquisa deve conter: temática, objetivos, metodologia e a conc
     
     2.f. Computação (Arquitetura de computadores/ etc.).
     
-    2.g. Moda (Estética/ Cosméticos).
+    2.g. Moda (Estética/ Cosméticos/ indústria têxtil).
     
     2.h. Tintas e pigmentos (Construção civil/ Arquitetura).
     
@@ -54,7 +54,7 @@ O relatório de pesquisa deve conter: temática, objetivos, metodologia e a conc
     
     2.j. Radiação (Astrofísica/ Medicina/ construção Civil).
     
-    2.k. [Li-Fi](http://www.bbc.com/portuguese/noticias/2015/11/151126_tecnologia_internet_lifi_hb) - Internet através da luz (Comunicações/ Engenharia/ Física).
+    2.k. Li-Fi - Internet através da luz (Comunicações/ Engenharia/ Física).
     
     2.l. Energia solar (Engenharia/ Física/ Química).
     
