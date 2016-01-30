@@ -2,7 +2,7 @@
 
 Página contendo esquema de aula para o curso de optica, semestre 2016-1.
 
-##SEMANA 01 a 03.
+## 01. SEMANA 01 a 03.
 
 #### Momento tostines.
 
@@ -24,7 +24,7 @@ Página contendo esquema de aula para o curso de optica, semestre 2016-1.
       a. 39-2 (1); 39-3 (2-4); 39-4 (5-10); 39-5 (11-14); 39-6 (15).
       b. São optativos os exercícios e problemas propostos do resto do capítulo 39 entre as páginas 24 a 32. 
       
-## SEMANA 04 a 07.
+## 02. SEMANA 04 a 07.
 
 #### Atividades da semana 04-07.
 
@@ -39,7 +39,7 @@ Página contendo esquema de aula para o curso de optica, semestre 2016-1.
       a. 40-1 (1); 40-2 (2,3); 40-3 (4-7); 40-4 (8,9); 40-5 (10-14); 40-6 (15).
       b. São optativos os exercícios e problemas propostos do resto do capítulo 40 entre as páginas 53 a 62.
       
-## SEMANA 08 a 10.
+## 03. SEMANA 08 a 10.
 
 #### Atividades da semana 08-10.
 
@@ -53,7 +53,7 @@ Página contendo esquema de aula para o curso de optica, semestre 2016-1.
       a. 41-2 (1-9); 41-3 (10-12); 41-4 (11,12); 41-5 (13-15).
       b. São optativos os exercícios e problemas propostos do resto do capítulo 41 entre as páginas 80 a 86.
 
-## SEMANA 11 a 13.
+## 04. SEMANA 11 a 13.
 
 #### Atividades da semana 11-13.
 
@@ -67,7 +67,7 @@ Página contendo esquema de aula para o curso de optica, semestre 2016-1.
       a. 42-1 (1); 42-2 (2-5); 42-3 (6-9); 42-4 (10,11); 42-5 (12).
       b. São optativos os exercícios e problemas propostos do resto do capítulo 42 entre as páginas 101 a 105.
 
-#### Sugestões.
+#### 05. Sugestões.
 
   1. Documentário da BBC: [A história da eletricidade](https://www.youtube.com/watch?v=8NN880JDP8M).
   2. Documentário da BBC: [A história da energia](https://www.youtube.com/watch?v=D8BOEXtiyzI).
