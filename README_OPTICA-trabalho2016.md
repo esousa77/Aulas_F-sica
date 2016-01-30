@@ -5,7 +5,7 @@ Repositório para as aulas da disciplina Física IV (Óptica), semestre 2016/1.
 #### 1. ORIENTAÇÕES PARA O TRABALHO DE FÍSICA IV. 
 #### 1.1 OBJETIVOS.
 
-Propiciar, através da orientação para a pesquisa de artigos e in loco, a ligação entre a teoria estudada em sala e os avanços tecnológicos atuais.
+Propiciar, através da orientação para a pesquisa de artigos e _in loco_, a ligação entre a teoria estudada em sala e os avanços tecnológicos atuais.
 
 #### 1.2 METODOLOGIA DO TRABALHO DE PESQUISA.
 
@@ -54,7 +54,7 @@ O relatório de pesquisa deve conter: temática, objetivos, metodologia e a conc
     
     2.j. Radiação (Astrofísica/ Medicina/ construção Civil).
     
-    2.k. Li-Fi - Internet através da luz (Comunicações/ Engenharia/ Física).
+    2.k. [Li-Fi](http://www.bbc.com/portuguese/noticias/2015/11/151126_tecnologia_internet_lifi_hb) - Internet através da luz (Comunicações/ Engenharia/ Física).
     
     2.l. Energia solar (Engenharia/ Física/ Química).
     
