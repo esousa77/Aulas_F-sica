@@ -26,6 +26,8 @@ Página contendo esquema de aula para o curso de optica, semestre 2016-1.
       
 ## 02. SEMANA 04 a 07.
 
+#### Momento tostines.
+
 #### Atividades da semana 04-07.
 
     1. Discussão em sala do tema _Espelhos e lentes_, referente ao capítulo 40 do livro texto (HALLIDAY et al., 2005);
@@ -41,6 +43,8 @@ Página contendo esquema de aula para o curso de optica, semestre 2016-1.
       
 ## 03. SEMANA 08 a 10.
 
+#### Momento tostines.
+
 #### Atividades da semana 08-10.
 
     1. Discussão em sala do tema _Interferência_, referente ao capítulo 41 do livro texto (HALLIDAY et al., 2005);
@@ -55,6 +59,8 @@ Página contendo esquema de aula para o curso de optica, semestre 2016-1.
 
 ## 04. SEMANA 11 a 13.
 
+#### Momento tostines.
+
 #### Atividades da semana 11-13.
 
     1. Discussão em sala do tema _Difração_, referente ao capítulo 42 do livro texto (HALLIDAY et al., 2005);
@@ -67,7 +73,7 @@ Página contendo esquema de aula para o curso de optica, semestre 2016-1.
       a. 42-1 (1); 42-2 (2-5); 42-3 (6-9); 42-4 (10,11); 42-5 (12).
       b. São optativos os exercícios e problemas propostos do resto do capítulo 42 entre as páginas 101 a 105.
 
-#### 05. Sugestões.
+#### 05. Sugestões de referências.
 
   1. Documentário da BBC: [A história da eletricidade](https://www.youtube.com/watch?v=8NN880JDP8M).
   2. Documentário da BBC: [A história da energia](https://www.youtube.com/watch?v=D8BOEXtiyzI).
